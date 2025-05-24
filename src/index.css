@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+.electrolize{
+  @apply font-[Electrolize]
+}
+
+body{
+  margin: 0;
+  padding: 0;
+}
