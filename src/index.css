@@ -8,3 +8,12 @@ body{
   margin: 0;
   padding: 0;
 }
+
+/* Header */
+.header{
+  @apply w-full bg-[#D5451B] h-[6.5em]
+}
+
+.header-border{
+  @apply border-b-4 border-[#521C0D]
+}
