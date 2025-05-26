@@ -1,10 +1,12 @@
 import './App.css'
+import Header from './components/Header'
 
 function App() {
 
   return (
     <>
-      <p className='electrolize'>Hello Churchill</p>
+      <Header/>
+      <p className='electrolize'>Hello World!</p>
     </>
   )
 }
